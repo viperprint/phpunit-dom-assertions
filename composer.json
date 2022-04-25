@@ -26,7 +26,7 @@
     ],
     "homepage": "http://github.com/phpunit/phpunit-dom-assertions",
     "require": {
-        "php": ">=7.1",
+        "php": ">=7.1|>=8.0",
         "ext-dom": "*",
         "phpunit/phpunit": "^6.5.14 || ^7.5.20 || ^8.5.21 || ^9.5.10",
         "symfony/css-selector": "^4.4.27 || ^5.4.0 || ^6.0.0",
